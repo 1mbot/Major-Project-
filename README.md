@@ -1,4 +1,4 @@
-# Smart Buoy System for Optical Detection and AI-Based Classification of Microplastics in Marine Environments
+# Smart Buoy System for Optical Detection of Microplastics in Marine Environments
 
 ## Overview
 
