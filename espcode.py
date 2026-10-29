@@ -14,8 +14,8 @@ import ustruct
 # ==========================================================
 # CONFIGURATION
 # ==========================================================
-SSID = "Ameya Phone"
-PASSWORD = "Ameya@1967"
+SSID = "Write your SSID"
+PASSWORD = "Write Your Passoword"
 UART_BAUDRATE = 115200
 UDP_PORT = 8080
 
