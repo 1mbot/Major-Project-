@@ -1,0 +1,10 @@
+15:39:35 **** Build of configuration Debug for project MajorProject ****
+make -j8 all 
+arm-none-eabi-size  MajorProject.elf 
+   text	   data	    bss	    dec	    hex	filename
+  41512	    468	   2964	  44944	   af90	MajorProject.elf
+Finished building: default.size.stdout
+ 
+
+15:39:36 Build Finished. 0 errors, 0 warnings. (took 890ms)
+

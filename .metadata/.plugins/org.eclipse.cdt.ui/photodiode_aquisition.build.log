@@ -1,0 +1,10 @@
+15:39:38 **** Build of configuration Debug for project photodiode_aquisition ****
+make -j8 all 
+arm-none-eabi-size  photodiode_aquisition.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14308	     96	   2280	  16684	   412c	photodiode_aquisition.elf
+Finished building: default.size.stdout
+ 
+
+15:39:38 Build Finished. 0 errors, 0 warnings. (took 423ms)
+

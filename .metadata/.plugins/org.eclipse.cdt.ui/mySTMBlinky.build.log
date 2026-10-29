@@ -1,0 +1,10 @@
+15:39:36 **** Build of configuration Debug for project mySTMBlinky ****
+make -j8 all 
+arm-none-eabi-size  mySTMBlinky.elf 
+   text	   data	    bss	    dec	    hex	filename
+   4632	     12	   1572	   6216	   1848	mySTMBlinky.elf
+Finished building: default.size.stdout
+ 
+
+15:39:37 Build Finished. 0 errors, 0 warnings. (took 535ms)
+
