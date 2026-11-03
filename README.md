@@ -124,11 +124,11 @@ Contains firmware associated with photodiode data acquisition.
 
 **`photodiode_UART_ESP/`**
 
-Contains firmware for photodiode data acquisition and UART communication between the STM32 and ESP32. The ESP32 integrates readings from the BMP280, MPU6050, and NEO-6M GPS before transmitting the collected data to the Python application over Wi-Fi using UDP.
+Contains the firmware used in the final implementation for photodiode data acquisition and UART communication between the STM32 and ESP32. The ESP32 integrates readings from the BMP280, MPU6050, and NEO-6M GPS before transmitting the collected data to the Python application over Wi-Fi using UDP.
 
 **`MajorProject/`**
 
-Contains the integrated STM32 firmware developed for the major project. The firmware handles photodiode acquisition and transmits the collected data to the ESP32 for subsequent wireless transfer and visualization.
+Contains the integrated STM32 firmware developed as part of an effort to transition the system to a fully STM32-based implementation. However, due to technical issues encountered during this transition, the earlier `photodiode_UART_ESP/` implementation was retained and used in the final system.
 
 ## Data Acquisition and Communication
 
