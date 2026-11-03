@@ -218,8 +218,6 @@ The project was developed collaboratively by:
 
 ## Acknowledgements
 
-## Acknowledgements
-
 This project was a collaborative effort, and the contributions of everyone involved are gratefully acknowledged.
 
 ### Team Contributions
