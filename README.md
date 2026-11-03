@@ -218,7 +218,26 @@ The project was developed collaboratively by:
 
 ## Acknowledgements
 
-The project was developed at Bharatiya Vidya Bhavan's Sardar Patel Institute of Technology (SPIT), Mumbai, under the guidance of Dr. Reena Sonkusare, Head of the Department of Electronics and Telecommunication Engineering, and Dr. Satyanarayana Bheesette.
+## Acknowledgements
+
+This project was a collaborative effort, and the contributions of everyone involved are gratefully acknowledged.
+
+### Team Contributions
+
+The hardware of the project and the buoy itself were designed and built primarily by **Prathamesh Mane**, **Tanvi Wani**, **Tanmay Wani**, and **Aniruddh Nalli**. They also developed the basic initial test programs used to check the hardware in the early stages of the project.
+
+**Ameya Joshi** assisted with the hardware work and developed the firmware and software in this repository, which is the latest version of the project's embedded data acquisition, sensor integration, communication, and visualization code.
+
+### Additional Support
+
+Special thanks to **Aditya Nagane** for his help during development:
+
+- He helped debug the STM32 programming issue, where the board was not getting programmed, and provided the solution that allowed firmware development to continue.
+- He suggested using UDP instead of TCP for the Wi-Fi transmission from the ESP32 to the Python application, which made the data transfer faster and more efficient.
+
+### Guidance
+
+The project was developed at Bharatiya Vidya Bhavan's Sardar Patel Institute of Technology (SPIT), Mumbai, under the guidance of Dr. Reena Sonkusare, Head of the Department of Electronics and Telecommunication Engineering, and Dr. Satyanarayana Bheesette, DAE Raja Ramanna Chair, Tata Institute of Fundamental Research (TIFR), Hyderabad.
 
 Department of Electronics and Telecommunication Engineering  
 Bharatiya Vidya Bhavan's Sardar Patel Institute of Technology, Mumbai  
